@@ -1,6 +1,6 @@
 # BR-NPA
 
-The official implementation of the BR-NPA model described in this paper https://arxiv.org/abs/2106.02566
+The official implementation of the BR-NPA model described in this paper https://www.sciencedirect.com/science/article/pii/S0031320322004083
 
 ![alt text](pics/whole_comp_small.png)
 
